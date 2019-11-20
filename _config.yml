@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Roberta Duarte"
-  avatar           : "me.png"
+  avatar           : "me.jpeg"
   bio              : "Computational Astrophysicist who loves Taylor Swift trying to understand black holes using deep learning"
   location         : "São Paulo, Brazil"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "robertaduart"
+  github           : "robertaduarte"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "http://twitter.com/import_robs"
+  twitter          : "import_robs"
   vine             :
   weibo            :
   xing             :
